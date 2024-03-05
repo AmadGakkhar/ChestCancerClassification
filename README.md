@@ -1,3 +1,5 @@
+[![workflow](https://github.com/AmadGakkhar/ChestCancerClassification/actions/workflows/main.yaml/badge.svg)](https://github.com/AmadGakkhar/ChestCancerClassification/actions/workflows/main.yaml) 
+
 # ChestCancerClassification
 
 ### Step 1. Create Project Template
