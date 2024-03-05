@@ -204,3 +204,5 @@ Design workflow for each stage of the project i.e, Data Ingestion, Training, Val
 ## Setting Up DVC
 
 dvc (Data Version Control) is a git like framework for your code pipelines. It helps organize code in sucha a way that on re-execution, only the stages where any changes have been made are run saving time and computation power. To set-up dvc create a dvc.yaml file as shown and now when running the program, use 'dvc repro' command instead of 'python main'.
+
+
