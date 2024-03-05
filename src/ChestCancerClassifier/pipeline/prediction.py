@@ -26,4 +26,4 @@ class PredictionPipeline:
             return [prediction]
         else:
             prediction = "Adenocarcinoma Cancer"
-            return [prediction]
+            return [prediction]  # Prediction
